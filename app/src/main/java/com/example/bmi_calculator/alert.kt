@@ -6,6 +6,6 @@ import android.os.Bundle
 class alert : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_alert)
+        setContentView(R.layout.alert_box)
     }
 }
